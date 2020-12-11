@@ -11,7 +11,7 @@ What I interested in now is developing mobile application and Vision AI.
  - 4K resolution, HEVC iOS camera filter apllication release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
  
  - Social community application release(appstore: '같이먹자') Mar 2019 ~ Feb 2020
- *This app's brand name is abused by the other company :(
+ *This app's brand name is abused by the other company :sob:
  app is deleted. 
 
  - Social community application still developing, will be released by Jan 2021.
@@ -22,10 +22,12 @@ What I interested in now is developing mobile application and Vision AI.
 
 
 
+
 I hope you get valuable information in my repository and also wish all of developers are helpful for each other.
 #
 
-
+### Unfortunately, You guys cannot open my private repos which is released for products.. :cry:
+Instead, you guys can wacy my stats below. Thank you.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunstory&count_private=true&show_icons=true)
 
 
