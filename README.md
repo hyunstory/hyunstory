@@ -21,7 +21,7 @@ What I am interested in now is developing mobile application(iOS) and Vision AI.
  *This app's brand name is abused by the other company :sob:
  deleted app already. 
 
- - Social community application still have been developing, will be released by the end of Jan 2021.
+ - Social community application have been developed recently, will be released by the end of Jan 2021.
  
  - Participated Sejong University CVPR Vision AI Lab as a Bachelor researcher. Jan 2020 ~ July 2020 - Predicting sewer cracks, tunnel cracks using by vision AI (Seoul city sewer projects)
   
