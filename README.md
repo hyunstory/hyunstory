@@ -35,7 +35,7 @@ What I am interested in now is developing mobile application(iOS) and Vision AI.
 I hope you get valuable information in my repositories.
 #
 
-### Unfortunately, You guys cannot open my private repos which are released for products.. :cry:
+### Unfortunately, You guys cannot access my private repos which are released for products.. :cry:
 Instead, you guys can check my stats below. Thank you.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunstory&count_private=true&show_icons=true)
