@@ -25,7 +25,7 @@ What I am interested in now is developing mobile application and Vision AI.
 
 
 
-I hope you get valuable information in my repository and also wish all of developers are helpful for each other.
+I hope you get valuable information in my repositories.
 #
 
 ### Unfortunately, You guys cannot open my private repos which is released for products.. :cry:
