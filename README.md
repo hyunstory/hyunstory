@@ -23,7 +23,7 @@ What I am interested in now is developing mobile application(iOS) and Vision AI.
 
  - Social community application still have been developing, will be released by the end of Jan 2021.
  
- - Participated Sejong University CVPR Vision AI Lab as a Bachelor researcher. Jan 2020 ~ July 2020 - Predicting sewer cracks, tunnel cracks by vision AI (Seoul city sewer projects)
+ - Participated Sejong University CVPR Vision AI Lab as a Bachelor researcher. Jan 2020 ~ July 2020 - Predicting sewer cracks, tunnel cracks using by vision AI (Seoul city sewer projects)
   
  - Blockchain(public, private) - using ethereum, corda.
  
