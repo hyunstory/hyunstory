@@ -46,6 +46,7 @@ Instead, you guys can check my stats below. Thank you.
 
 # Contact : 
 hoon00917@naver.com
+(Spam mail will be blocked)
 
 
 
