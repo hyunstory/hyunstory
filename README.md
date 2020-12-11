@@ -15,7 +15,7 @@ I majored in Information and Communication Engineering in Sejong University.
 What I am interested in now is developing mobile application(iOS) and Vision AI.
 
 ## Recent my projects!
- - 4K resolution, HEVC iOS camera filter apllication release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
+ - 4K resolution, HEVC iOS camera filter app release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
  
  - Social community application release(appstore: '같이먹자') Mar 2019 ~ Feb 2020
  *This app's brand name is abused by the other company :sob:
