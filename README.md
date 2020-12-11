@@ -1,8 +1,11 @@
-# My dev blog(Korean)
-[Check Blog!]
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunstory&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+# 한국어 블로그
+[개발 블로그]
+
+
+#
 
 
 # Welcome to Hyun's story github
@@ -50,7 +53,7 @@ hoon00917@naver.com
 
 
 
-[Check Blog!]: <https://rolypolytoy.tistory.com/>
+[개발 블로그]: <https://rolypolytoy.tistory.com/>
 
 
 
