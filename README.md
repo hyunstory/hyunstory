@@ -12,7 +12,7 @@ What I interested in now is developing mobile application and Vision AI.
  
  - Social community application release(appstore: '같이먹자') Mar 2019 ~ Feb 2020
  *This app's brand name is abused by the other company :sob:
- app is deleted. 
+ deleted app already. 
 
  - Social community application still developing, will be released by Jan 2021.
  
