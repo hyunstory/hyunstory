@@ -14,7 +14,7 @@ What I interested in now is developing mobile application and Vision AI.
  *This app's brand name is abused by the other company :sob:
  deleted app already. 
 
- - Social community application still have been developing, will be released by Jan 2021.
+ - Social community application still have been developing, will be released by the end of Jan 2021.
  
  - Blockchain(public, private) - using ethereum, corda.
  
