@@ -18,7 +18,7 @@ What I am interested in now is developing mobile application(iOS) and Vision AI.
  - 4K resolution, HEVC iOS camera filter app release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
  
  - Social community application release(appstore: '같이먹자') Mar 2019 ~ Feb 2020
- *This app's brand name is abused by the other company :sob:
+ *This app's brand name is abused by the other company after it is released :sob:
  deleted app already. 
 
  - Social community application have been developed recently, will be released at the end of Jan 2021.
