@@ -32,7 +32,7 @@ What I am interested in now is developing mobile application(iOS) and Vision AI.
  ## Skills and experiences (Level 0~4)
   * Mobile app: iOS-Swift (4), Android-Kotlin (3), Alamofire (3), Retrofit(3), RealmSwift(3), RealmKotlin(3), iOS Chat app using by node.js socket(4), iOS Metal(2), RxSwift(2), iOS AVFoundation(3), APNS, FCM, etc.
   
-  * Backend: Node.js(4), pm2, Socket.IO(4), MongoDB(4), MySQL(3), PHP(3), AWS(Loadbalancing, Autoscaling, SSL/TLS(aws, letsencrypt), SES, S3, etc), crontab, etc.
+  * Backend: Node.js(2), pm2, Socket.IO(3), MongoDB(3), MySQL(3), PHP(3), AWS(Loadbalancing, Autoscaling, SSL/TLS(aws, letsencrypt), SES, S3, etc), crontab, etc.
   
   * Blockchain: ethereum(2), Corda(3)
   
