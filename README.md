@@ -21,8 +21,8 @@ What I am interested in now is developing mobile application(iOS, Android) and V
  *This app's brand name is abused by the other company after it is released :sob:
  deleted app already. 
 
- - Social community application has been developed recently, will be released at the end of Jan 2021.
- 
+ - Social community application release (apple appstore, google playstore: '스물스') July 2020 ~ Feb 2021
+  
  - Participated in Sejong University CVPR Vision AI Lab as a Bachelor researcher. Jan 2020 ~ July 2020 - Predicting sewer cracks, tunnel cracks using by vision AI (Seoul city sewer projects)
   
  - Blockchain(public, private) - using ethereum, corda.
