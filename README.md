@@ -12,7 +12,7 @@
 
 I majored in Information and Communication Engineering in Sejong University.
 
-What I am interested in now is developing mobile application(iOS) and Vision AI.
+What I am interested in now is developing mobile application(iOS, Android) and Vision AI.
 
 ## Recent projects!
  - 4K resolution, HEVC iOS camera filter app release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
