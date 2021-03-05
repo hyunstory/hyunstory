@@ -27,7 +27,7 @@ What I am interested in now is developing mobile application(iOS, Android) and V
   
  - Blockchain(public, private) - using ethereum, corda.
  
- - Preparing for coding test.
+ - Preparing for the coding test.
  
  ## Skills and experiences (Level 0~4)
   * Mobile app: iOS-Swift (4), Android-Kotlin (3), Alamofire (3), Retrofit(3), RealmSwift(3), RealmKotlin(3), iOS Chat app using by node.js socket(4), iOS Metal(2), RxSwift(2), iOS AVFoundation(3), APNS, FCM, etc.
