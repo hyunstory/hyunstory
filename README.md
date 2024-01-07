@@ -10,47 +10,40 @@
 
 
 
-
-
 # Welcome to Hyun's story github
 
 I majored in Information and Communication Engineering in Sejong University.
 
 What I am interested in now is developing mobile application(iOS, Android) and Vision AI.
 
-## Recent projects!
- - 4K resolution, HEVC iOS camera filter app release (apple appstore: 'youmemo') Jan 2019 ~ Aug 2019
- 
- - Social community application release(appstore: '같이먹자') Mar 2019 ~ Feb 2020
- *This app's brand name is abused by the other company after it is released :sob:
- deleted app already. 
 
- - Social community application release (apple appstore, google playstore: '스물스') July 2020 ~ Feb 2021
-  
- - Participated in Sejong University CVPR Vision AI Lab as a Bachelor researcher. Jan 2020 ~ July 2020 - Predicting sewer cracks, tunnel cracks using by vision AI (Seoul city sewer projects)
-  
- - Blockchain(public, private) - using ethereum, corda.
- 
- - Preparing for the coding test.
- 
- ## Skills and experiences (Level 0~4)
-  * Mobile app: iOS-Swift (4), Android-Kotlin (3), Alamofire (3), Retrofit(3), RealmSwift(3), RealmKotlin(3), iOS Chat app using by node.js socket(4), iOS Metal(2), RxSwift(2), iOS AVFoundation(3), APNS, FCM, etc.
-  
-  * Backend: Node.js(2), pm2, Socket.IO(3), MongoDB(3), MySQL(3), PHP(3), AWS(Loadbalancing, Autoscaling, SSL/TLS), SES, S3, etc), crontab, etc.
-  
-  * Blockchain: ethereum(2), Corda(3)
-  
-  * Vision AI: Keras(3), OpenCV(3), etc.
-  
+## Experience
+### Hyundai Autoever Hyundai Motor Group
+- Hyundai motor AR navigation development.
+  - Video link: https://youtu.be/OB09EDbELEU
 
+- Genesis car (GV60 GV70, GV80, G80, G90)
+- Hyundai, Kia car (Grandeur(Azera), Kona, Sonata, EV9, Santa Fe, K9, etc.)
 
+- Fisheye lens camera calibration.
+  - Generating LUT files using camera lens parameters(Field angle, D%, Image Height).
+  - Understanding concepts of equidistant projection, 3D spatial calibration.
 
+- Camera pose estimation
+  - PnP, Rodrigues, homography.
 
-I hope you get valuable information in my repositories.
-#
+- AR Navigation Dynamic wall development.( 3D turnpoint guidance)
+  - Calculating dynamic wall trajectory.
+  - 3D Flying Animations.
 
-### Unfortunately, You guys cannot access my private repos which are released for products.. :cry:
-Instead, you guys can check my stats below. Thank you.
+- Adas signal processing.(lane info, steering wheel angle, fcw, lkas etc)
+  - Discriminating lane change by lane signals window filtering.
+
+- EGL on/off screen Rendering(frame buffer object)
+  - Rendering on wayland surface, EglsteamSurface(Socket) at the same time. 
+
+- Experienced in multi thread programing, Dbus IPC, CPU GPU profiling, solving bottleneck, solving memory leak(heaptrack).
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunstory&count_private=true&show_icons=true)
 
