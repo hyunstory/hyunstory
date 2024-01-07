@@ -12,9 +12,9 @@
 
 # Welcome to Hyun's story github
 
-I majored in Information and Communication Engineering in Sejong University.
+I am an augmented reality navigation developer at Hyundai Autoever, a leading IT company that provides innovative solutions for the automotive industry. I have a bachelor's degree in information and communication engineering from Sejong University and I am currently pursuing a master's degree in artificial intelligence from Hanyang University.
 
-What I am interested in now is developing mobile application(iOS, Android) and Vision AI.
+At Hyundai Autoever, I am part of the team that develops AR navigation for Hyundai and Genesis cars, using camera calibration, camera pose estimation, dynamic wall trajectory, and 3D flying animations. I also process ADAS signals such as lane info, steering wheel angle, FCW, and LKAS. I enjoy working with cutting-edge technologies and applying my skills in C++ and Python to create immersive and intuitive user experiences. I am motivated by the challenge of solving complex problems and the opportunity to contribute to the future of mobility. I value collaboration, innovation, and learning, and I am eager to share my perspectives and experiences with a diverse and talented team.
 
 
 ## Experience
